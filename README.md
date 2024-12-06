@@ -18,7 +18,7 @@ The Pen-Testing Report Project CTF was done to experience how a pentesting CTF w
 
 ## Steps
 
-This is a summary report of all the findings in this pen-testing CTF. 
+This is a summary report of all the findings in this Pen-Testing Project CTF. 
 
 (SCROLL DOWN AND CLICK MORE PAGES ON THE PDF TO SEE ALL REPORT FINDINGS)
 
