@@ -19,3 +19,6 @@ The Pen-Testing Report Project CTF was done to experience how a pentesting CTF w
 ## Steps
 
 This is a summary report of all the findings in this pen-testing CTF. (CLICK READ MORE ON THE PDF TO SEE ALL REPORT FINDINGS)
+
+[Pen-Testing CTF Summary Report
+](https://github.com/Adamgzlez/Pen-Testing-Report-Project/blob/main/_Arthur%20Gonzalez__Penetration%20Test%20Report_%20-%20MegaCorpOne.pdf)
